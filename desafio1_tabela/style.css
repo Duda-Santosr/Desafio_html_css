@@ -1,0 +1,19 @@
+/* Adicionando cores na tabela */
+h1{
+    color: midnightblue;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(187, 217, 235);
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+.blue{
+    background-color: lightskyblue;
+}
+
+.blue2{
+    background-color: lightskyblue;
+}
